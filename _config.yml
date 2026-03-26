@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://Evan-J-Schweighart.github.io"
+baseurl: "/EvanJSchweighartPortfolio"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/gallery/"  
+  - JOURNAL: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/journal/"
+  - ABOUT: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/about/"
 
 # All translation keys
 translations:
