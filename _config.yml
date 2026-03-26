@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: Evan J Schweighart
 email: ""
 description: "Photo Journal"
 url: "https://Evan-J-Schweighart.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   Evan Schweighart
+  name:   Evan J Schweighart
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
