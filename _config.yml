@@ -18,7 +18,7 @@ owner:
   name:   Evan J Schweighart
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Design Portfolio Website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/gallery/"  
-  - JOURNAL: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/journal/"
+
   - ABOUT: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/about/"
 
 # All translation keys
