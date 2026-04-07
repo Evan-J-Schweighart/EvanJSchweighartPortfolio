@@ -1,13 +1,13 @@
 # Site settings
 title: Evan J Schweighart
-email: ""
+email: "evan.schweighart@gmail.com"
 description: "Graphic Design Portfolio"
 url: "https://Evan-J-Schweighart.github.io"
 baseurl: "/EvanJSchweighartPortfolio"
 # facebook_username: ""
 # twitter_username: ""
 # instagram_username: ""
-github_username:  ""
+github_username:  "https://github.com/Evan-J-Schweighart"
 # deviantart_username: ""
 # flickr_username: ""
 # discus_shortname: ""
