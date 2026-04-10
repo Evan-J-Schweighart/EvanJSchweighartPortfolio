@@ -35,7 +35,7 @@ comments :
 nav:
   - GALLERY: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/gallery/"  
   # - JOURNAL: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/journal/" 
-  - ABOUT: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/about/"
+  # - ABOUT: "https://Evan-J-Schweighart.github.io/EvanJSchweighartPortfolio/about/"
 
 # All translation keys
 translations:
