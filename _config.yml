@@ -17,7 +17,7 @@ share: false
 owner:
   name:   Evan J Schweighart
   avatar: avatar.png
-  favicon: favicon.ico
+  favicon: #favicon.ico
   info: Design Portfolio Website
 
 # Settings for comments helper
