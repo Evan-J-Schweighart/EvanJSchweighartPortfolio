@@ -16,7 +16,7 @@ share: false
 # Owner/author information
 owner:
   name:   Evan J Schweighart
-  avatar: avatar.png
+  #avatar: avatar.png
   favicon: favicon.ico
   info: Design Portfolio Website
 
